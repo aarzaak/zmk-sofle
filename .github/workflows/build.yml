@@ -5,6 +5,7 @@ on:
     paths-ignore:
       - "keymap-drawer/**"
       - "**.md"
+      - ".github/workflows/**"
 
 jobs:
   build:

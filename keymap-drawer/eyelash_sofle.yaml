@@ -193,8 +193,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
-  - BRIGHT DOWN
-  - BRIGHT UP
+  - $$mdi:brightness-7$$
+  - $$mdi:brightness-5$$
   '3':
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
